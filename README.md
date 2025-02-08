@@ -1,5 +1,8 @@
 Quick Law - Bail Reckoner System
+
 Video Demo - https://www.loom.com/share/e96d69c5b3784dcbb0b73f8ea7e7a6f1?sid=deca0435-1e1d-498a-a8cb-8950cdb1744f
+
+Explaination Video - https://drive.google.com/file/d/19J7_B-g-fwr6jKHGar3K9QVMzQ-jkXJS/view?usp=sharing
 
 ![Image](https://github.com/user-attachments/assets/d018658c-cd5d-4a80-a55d-3a640b34b466)
 ![Image](https://github.com/user-attachments/assets/a09940a6-8f04-4e2f-8816-5ab1c44ded01)
