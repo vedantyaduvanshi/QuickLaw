@@ -1,0 +1,49 @@
+.dashboard-container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .top-stats {
+    grid-column: span 12;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .stat-card {
+    background-color: #2a2d3e;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 22%;
+    text-align: center;
+  }
+  
+  .charts {
+    display: flex;
+    grid-column: span 12;
+    gap: 20px;
+  }
+  
+  .chart-container {
+    background-color: #2a2d3e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 48%;
+  }
+  
+  .other-stats {
+    grid-column: span 12;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .patients, .stock-market, .savings {
+    background-color: #2a2d3e;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+  }
+  
